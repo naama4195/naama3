@@ -3,5 +3,5 @@ const functionA=()=>{
 }
 
 const functionB=()=>{
-    alert("hello")
+    alert("hello to path1")
 }
