@@ -1,0 +1,5 @@
+
+const arr=[
+    "naama",
+    "shira"
+];
